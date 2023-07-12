@@ -16,4 +16,4 @@ Custom electron client for popular battle royale io game: BuildRoyale.io ( Inspi
   - Custom Mods
   - And more!
 
-### Download the latest release [here](https://github.com/FeeshDev/DeltaClient/releases/latest).
+### Download the latest release [here](https://github.com/mayzzzzzz/BR-Client/releases/tag/1.0).
