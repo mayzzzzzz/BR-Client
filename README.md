@@ -1,3 +1,5 @@
+DESC COPIED FROM ( https://github.com/FeeshDev/DeltaClient )
+
 # BR Client 
 
 
@@ -6,12 +8,12 @@ Custom electron client for popular battle royale io game: BuildRoyale.io ( Inspi
 ## Current features
   - Auto updater
   - Logging in
+  - Mac Support
 
 ## Planned features
   - DiscordRPC
   - FPS meter
-  - Killfeed and game stats tracker
-  - Mac and linux support
+  - Linux support
   - Adblocker
   - Custom Mods
   - And more!
